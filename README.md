@@ -251,9 +251,7 @@ Nếu có thêm hai giờ, tôi sẽ dùng thời gian để: kiểm tra API con
 ## D.3. Năm câu hỏi tôi muốn được trả lời trước khi quyết định gia nhập Wayfinder
 
 1. Trong 6–12 tháng tới, ba vấn đề kỹ thuật hoặc sản phẩm quan trọng nhất mà Senior Developer sẽ trực tiếp chịu trách nhiệm là gì?
-2. Hiện team engineering cách review code/deploy/on-call đang vận hành thế nào và kế hoạch tuyển thêm người ra sao?
-3. Hệ thống hiện tại đang ở mức test coverage, monitoring, CI/CD và technical debt như thế nào; công ty dành bao nhiêu thời gian cho việc cải thiện chúng?
+2. Hiện team engineering cách review code/deploy/on-call đang vận hành thế nào ?
+3. Hệ thống hiện tại đang ở mức test coverage, monitoring, CI/CD và technical debt như thế nào?
 4. Senior Full-Stack Developer được quyền quyết định kiến trúc/kỹ thuật đến mức nào, và các trade-off giữa tốc độ delivery với chất lượng được thống nhất với business ra sao?
-5. Sau 3 và 6 tháng, Wayfinder sẽ dùng tiêu chí nào để đánh giá một người ở vị trí này đang làm tốt?
-
 ---
